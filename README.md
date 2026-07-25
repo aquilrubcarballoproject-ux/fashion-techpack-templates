@@ -6,3 +6,8 @@ https://github.com/aquilrubcarballoproject-ux/fashion-techpack-templates
 - Plantillas base de tech pack para t-shirts y uniformes corporativos.
 - Actualizar README con ejemplos
 - 
+## Ejemplos incluidos
+
+- Tabla de medidas de franela cuello redondo (`tshirt-unisex-sizechart.xlsx`).
+- Plantillas base de tech pack para prendas de moda y uniformes corporativos.
+- Actualizar README con ejemplos reales
